@@ -1,5 +1,4 @@
-# Sublime-GameMaker-Studio-Language-Bundle
-A sublime bundle for GameMaker Language (GML)
+# GameMaker Studio Language Bundle for Sublime
 
 ## Features
  - Syntax highlighting
