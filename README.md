@@ -1,5 +1,7 @@
 # GameMaker Studio Language Bundle for Sublime
 
+![Preview](./img.png "Optional title")
+
 ## Features
  - Syntax highlighting
  - Keywords autocompletion
