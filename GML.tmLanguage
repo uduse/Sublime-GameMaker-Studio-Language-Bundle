@@ -86,14 +86,6 @@
 		</dict>
 		<dict>
 			<key>comment</key>
-			<string>Literal, string, single-quoted</string>
-			<key>match</key>
-			<string>['][^']*[']</string>
-			<key>name</key>
-			<string>string.quoted.single.gml</string>
-		</dict>
-		<dict>
-			<key>comment</key>
 			<string>Literal, string, double-quoted</string>
 			<key>match</key>
 			<string>["][^"]*["]</string>

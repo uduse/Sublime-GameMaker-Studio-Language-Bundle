@@ -42,10 +42,6 @@ patterns:
   end: \*/
   name: comment.block.gml
 
-- comment: 'Literal, string, single-quoted'
-  match: '[''][^'']*['']'
-  name: string.quoted.single.gml
-
 - comment: 'Literal, string, double-quoted'
   match: '["][^"]*["]'
   name: string.quoted.double.gml
