@@ -7,7 +7,7 @@ uuid: 44f1359e-0eb0-4662-a52d-bf0c8a454f23
 
 patterns:
 - comment: Built-in keyword
-  match: (?<![A-Za-z0-9_])(div|mod|if|else|and|or|not|xor|for|switch|with|while|do|until|repeat|break|exit|return|continue|case|default|noone|self|other|global|globalvar|local|var)(?![A-Za-z0-9_])|{|}
+  match: (?<![A-Za-z0-9_])(div|mod|if|else|and|or|not|xor|for|switch|with|while|do|until|repeat|break|exit|return|continue|case|default|noone|self|other|global|globalvar|local|var)(?![A-Za-z0-9_])
   name: keyword.gml
 
 - comment: Built-in function

@@ -14,7 +14,7 @@
 			<key>comment</key>
 			<string>Built-in keyword</string>
 			<key>match</key>
-			<string>(?&lt;![A-Za-z0-9_])(div|mod|if|else|and|or|not|xor|for|switch|with|while|do|until|repeat|break|exit|return|continue|case|default|noone|self|other|global|globalvar|local|var)(?![A-Za-z0-9_])|{|}</string>
+			<string>(?&lt;![A-Za-z0-9_])(div|mod|if|else|and|or|not|xor|for|switch|with|while|do|until|repeat|break|exit|return|continue|case|default|noone|self|other|global|globalvar|local|var)(?![A-Za-z0-9_])</string>
 			<key>name</key>
 			<string>keyword.gml</string>
 		</dict>
