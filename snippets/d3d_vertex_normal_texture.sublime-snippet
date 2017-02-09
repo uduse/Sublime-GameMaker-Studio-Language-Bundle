@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+d3d_vertex_normal_texture(${1:x}, ${2:y}, ${3:z}, ${4:nx}, ${5:ny}, ${6:nz}, ${7:xtex}, ${8:ytex})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>d3d_vertex_normal_texture</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

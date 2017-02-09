@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+room_set_view(${1:ind}, ${2:vind}, ${3:vis}, ${4:xview}, ${5:yview}, ${6:wview}, ${7:hview}, ${8:xport}, ${9:yport}, ${10:wport}, ${11:hport}, ${12:hborder}, ${13:vborder}, ${14:hspeed}, ${15:vspeed}, ${16:obj})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>room_set_view</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

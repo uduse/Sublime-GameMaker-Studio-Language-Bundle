@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+message_text_font(${1:name}, ${2:size}, ${3:color}, ${4:style})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>message_text_font</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

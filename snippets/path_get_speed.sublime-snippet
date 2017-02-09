@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+path_get_speed(${1:ind}, ${2:pos})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>path_get_speed</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

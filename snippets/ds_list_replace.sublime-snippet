@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+ds_list_replace(${1:id}, ${2:pos}, ${3:val})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ds_list_replace</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

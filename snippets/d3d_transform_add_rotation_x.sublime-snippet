@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+d3d_transform_add_rotation_x(${1:angle})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>d3d_transform_add_rotation_x</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

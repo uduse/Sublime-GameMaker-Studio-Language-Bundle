@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+ini_write_string(${1:section}, ${2:key}, ${3:value})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ini_write_string</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

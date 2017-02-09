@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+collision_circle(${1:xc}, ${2:yc}, ${3:radius}, ${4:obj}, ${5:prec}, ${6:notme})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>collision_circle</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

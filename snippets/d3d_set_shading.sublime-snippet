@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+d3d_set_shading(${1:smooth})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>d3d_set_shading</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

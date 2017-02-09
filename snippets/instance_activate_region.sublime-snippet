@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+instance_activate_region(${1:left}, ${2:top}, ${3:width}, ${4:height}, ${5:inside})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>instance_activate_region</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+d3d_set_projection(${1:xfrom}, ${2:yfrom}, ${3:zfrom}, ${4:xto}, ${5:yto}, ${6:zto}, ${7:xup}, ${8:yup}, ${9:zup})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>d3d_set_projection</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

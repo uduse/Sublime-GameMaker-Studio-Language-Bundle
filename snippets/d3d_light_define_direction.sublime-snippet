@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+d3d_light_define_direction(${1:ind}, ${2:dx}, ${3:dy}, ${4:dz}, ${5:col})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>d3d_light_define_direction</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

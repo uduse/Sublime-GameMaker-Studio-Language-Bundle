@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+display_test_all(${1:w}, ${2:h}, ${3:frequency}, ${4:coldepth})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>display_test_all</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

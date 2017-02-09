@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+room_goto_previous()
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>room_goto_previous</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

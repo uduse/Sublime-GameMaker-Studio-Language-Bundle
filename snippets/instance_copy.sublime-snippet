@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+instance_copy(${1:performevent})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>instance_copy</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

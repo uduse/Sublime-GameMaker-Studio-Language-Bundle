@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+choose(${1:val1}, ${2:val2}, ${3:val3}, ${4:...})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>choose</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

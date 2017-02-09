@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+date_days_in_month(${1:date})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>date_days_in_month</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

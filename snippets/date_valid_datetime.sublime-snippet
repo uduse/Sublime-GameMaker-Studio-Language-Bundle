@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+date_valid_datetime(${1:year}, ${2:month}, ${3:day}, ${4:hour}, ${5:minute}, ${6:second})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>date_valid_datetime</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

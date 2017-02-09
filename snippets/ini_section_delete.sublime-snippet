@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+ini_section_delete(${1:section})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ini_section_delete</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

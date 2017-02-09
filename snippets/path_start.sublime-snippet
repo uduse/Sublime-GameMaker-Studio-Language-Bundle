@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+path_start(${1:path}, ${2:speed}, ${3:endaction}, ${4:absolute})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>path_start</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

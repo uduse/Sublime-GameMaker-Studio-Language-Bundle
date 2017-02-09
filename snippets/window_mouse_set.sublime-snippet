@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+window_mouse_set(${1:x}, ${2:y})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>window_mouse_set</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

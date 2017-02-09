@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+sprite_replace_alpha(${1:ind}, ${2:fname}, ${3:imgnumb}, ${4:precise}, ${5:preload}, ${6:xorig}, ${7:yorig})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sprite_replace_alpha</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

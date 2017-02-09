@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+mplay_data_mode(${1:guar})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mplay_data_mode</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

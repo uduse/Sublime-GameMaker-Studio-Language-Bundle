@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+arctan2(${1:y}, ${2:x})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>arctan2</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

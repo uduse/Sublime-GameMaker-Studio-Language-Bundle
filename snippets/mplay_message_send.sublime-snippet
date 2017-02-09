@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+mplay_message_send(${1:player}, ${2:id}, ${3:val})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mplay_message_send</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

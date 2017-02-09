@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+part_type_color_hsv(${1:ind}, ${2:hmin}, ${3:hmax}, ${4:smin}, ${5:smax}, ${6:vmin}, ${7:vmax})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>part_type_color_hsv</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

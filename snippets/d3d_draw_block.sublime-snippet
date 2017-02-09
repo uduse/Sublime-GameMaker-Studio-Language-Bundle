@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+d3d_draw_block(${1:x1}, ${2:y1}, ${3:z1}, ${4:x2}, ${5:y2}, ${6:z2}, ${7:texid}, ${8:hrepeat}, ${9:vrepeat})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>d3d_draw_block</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

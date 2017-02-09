@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+string_format(${1:val}, ${2:tot}, ${3:dec})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>string_format</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

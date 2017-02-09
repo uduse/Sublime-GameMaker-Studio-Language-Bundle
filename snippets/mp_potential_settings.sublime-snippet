@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+mp_potential_settings(${1:maxrot}, ${2:rotstep}, ${3:ahead}, ${4:onspot})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mp_potential_settings</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

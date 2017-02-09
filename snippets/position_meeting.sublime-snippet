@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+position_meeting(${1:x}, ${2:y}, ${3:obj})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>position_meeting</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>

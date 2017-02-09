@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+show_debug_message(${1:str})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>show_debug_message</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.gml</scope>
+</snippet>
