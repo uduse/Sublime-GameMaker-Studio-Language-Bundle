@@ -1,10 +1,19 @@
 with (instance_create(x, y, obj_rock))
 {
-    background_alpha += 10;
-    if (alarm[0] == -1)
-    {
-        var a = ANSI_CHARSET;
-        var b = "string";
-        var c = 12.3;
-    }
+	if (alarm[1] > 10)
+	{
+		instance_destroy();
+	}
+	else
+	{
+		switch (keyboard_key)
+		{
+		case vk_shift:
+			game_save("saving");
+		case vk_up:
+			game_restart();
+		default:
+			break;
+		}
+	}
 }
