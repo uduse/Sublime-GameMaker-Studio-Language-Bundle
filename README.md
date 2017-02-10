@@ -3,9 +3,11 @@
 ![Preview](./demo.gif)
 
 ## Features
- - Syntax highlighting
- - Keywords autocompletion
- - Basic control snippets
+ - Syntax Highlighting
+ - Keywords/Built-In Variables Autocompletion
+ - Function Snippets
+ - Basic Control Snippets
+ - Auto Indentation
 
 ## Installation
 
@@ -16,4 +18,7 @@ Using [Sublime Package Control](http://wbond.net/sublime_packages/package_contro
 Restart your Sublime and you're ready to rock!
 
 ## Usage
-Name your script with extension ```gml```. For example, ```nvm.gml```. Syntax highlighting and autocompletion are automatic and snippets can be triggered with their name. Available snippets are: ```for```, ```if```, ```else```, ```repeat```, ```switch```, ```while```, ```with```.
+- Name your script with extension ```gml```. For example, ```nvm.gml```. Syntax highlighting will be applied automatically. 
+- Partially type keywords or built-in variables to trigger autocompletion.
+- Partially type function name to trigger function snippet. If multiple parameters are avaliable, TAB (↹) to go to next one. Available snippets are: ```for```, ```if```, ```else```, ```repeat```, ```switch```, ```while```, ```with```, and most of the built-in functions.
+- To indent your gml file, use: Command Palette (⌘⇧P)  ➤  Indentation: Reindent Lines.
