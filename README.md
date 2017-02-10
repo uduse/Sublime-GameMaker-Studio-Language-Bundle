@@ -1,6 +1,6 @@
 # GameMaker Studio Language Bundle for Sublime
 
-![Preview](./img.png "Optional title")
+![Preview](./demo.gif)
 
 ## Features
  - Syntax highlighting
