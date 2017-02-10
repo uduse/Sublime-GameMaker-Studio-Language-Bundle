@@ -44,7 +44,7 @@
 				| ^ \s* \b(for)\b .* $
 			</string>
 			<key>unIndentedLinePattern</key>
-			<string>^\s*\b(case)\b.*:$</string>
+			<string>^\s*\b(case|default)\b.*:$</string>
 		</dict>
 	</dict>
 </plist>
