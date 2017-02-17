@@ -1,20 +1,17 @@
-// Built-in keyword
-if not or
+// Keyword
+begin
 
-// Built-in function
-instance_create
+// Function
+is_real
 
-// Built-in global variable
-background_alpha
+// Global variable
+argument_relative
 
-// Built-in instance and local variable
-alarm
+// Instance Variable
+x y
 
-// Built-in constant
-ANSI_CHARSET
-
-// Scripts
-foo()
+// Constant
+other
 
 // Line-comments
 
