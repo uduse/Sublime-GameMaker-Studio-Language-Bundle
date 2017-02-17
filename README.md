@@ -18,7 +18,7 @@ Using [Sublime Package Control](http://wbond.net/sublime_packages/package_contro
 Restart your Sublime and you're ready to rock!
 
 ## Usage
-- [Checkout my tutorial on setting up your GameMaker Studio: 2 for Sublime](Checkout my tutorial on setting up your GameMaker Studio: 2 for Sublime)!
+- [Checkout my tutorial on setting up your GameMaker Studio: 2 for Sublime](http://code.uduse.com/2017/02/10/set-up-your-sublime-text-3-to-write-gamemaker-studio-2-codes/)!
 - Name your script with extension ```gml```. For example, ```nvm.gml```. Syntax highlighting will be applied automatically. 
 - Partially type keywords or built-in variables to trigger autocompletion.
 - Partially type function name to trigger function snippet. If multiple parameters are avaliable, TAB (↹) to go to next one. Available snippets are: ```for```, ```if```, ```else```, ```repeat```, ```switch```, ```while```, ```with```, and most of the built-in functions.
