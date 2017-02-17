@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-part_destroyer_region(${1:ps}, ${2:ind}, ${3:xmin}, ${4:xmax}, ${5:ymin}, ${6:ymax}, ${7:shape})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>part_destroyer_region</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

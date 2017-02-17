@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-background_add(${1:fname}, ${2:transparent}, ${3:smooth}, ${4:preload})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>background_add</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

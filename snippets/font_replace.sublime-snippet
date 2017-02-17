@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-font_replace(${1:ind}, ${2:name}, ${3:size}, ${4:bold}, ${5:italic}, ${6:first}, ${7:last})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>font_replace</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

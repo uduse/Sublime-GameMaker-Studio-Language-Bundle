@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-mplay_init_tcpip(${1:addr})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>mplay_init_tcpip</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

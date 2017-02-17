@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-show_message_ext(${1:str}, ${2:but1}, ${3:but2}, ${4:but3})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>show_message_ext</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

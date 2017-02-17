@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-window_set_sizeable(${1:sizeable})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>window_set_sizeable</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-execute_program(${1:prog}, ${2:arg}, ${3:wait})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>execute_program</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

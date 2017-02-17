@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-mp_potential_path_object(${1:path}, ${2:xg}, ${3:yg}, ${4:stepsize}, ${5:factor}, ${6:obj})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>mp_potential_path_object</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

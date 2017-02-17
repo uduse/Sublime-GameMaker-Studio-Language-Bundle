@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-draw_path(${1:path}, ${2:x}, ${3:y}, ${4:absolute})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>draw_path</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

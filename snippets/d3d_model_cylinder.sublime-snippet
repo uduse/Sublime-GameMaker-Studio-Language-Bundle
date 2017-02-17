@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-d3d_model_cylinder(${1:ind}, ${2:x1}, ${3:y1}, ${4:z1}, ${5:x2}, ${6:y2}, ${7:z2}, ${8:hrepeat}, ${9:vrepeat}, ${10:closed}, ${11:steps})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>d3d_model_cylinder</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

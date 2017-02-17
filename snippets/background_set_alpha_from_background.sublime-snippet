@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-background_set_alpha_from_background(${1:ind}, ${2:back})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>background_set_alpha_from_background</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

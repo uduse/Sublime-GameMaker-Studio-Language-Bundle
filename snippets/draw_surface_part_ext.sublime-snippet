@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-draw_surface_part_ext(${1:id}, ${2:left}, ${3:top}, ${4:width}, ${5:height}, ${6:x}, ${7:y}, ${8:xscale}, ${9:yscale}, ${10:color}, ${11:alpha})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>draw_surface_part_ext</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

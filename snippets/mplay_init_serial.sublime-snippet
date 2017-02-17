@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-mplay_init_serial(${1:portno}, ${2:baudrate}, ${3:stopbits}, ${4:parity}, ${5:flow})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>mplay_init_serial</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

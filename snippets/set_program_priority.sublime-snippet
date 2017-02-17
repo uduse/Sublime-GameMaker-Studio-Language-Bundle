@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-set_program_priority(${1:priority})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>set_program_priority</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

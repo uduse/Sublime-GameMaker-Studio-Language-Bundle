@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-font_add_sprite(${1:spr}, ${2:first}, ${3:prop}, ${4:sep})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>font_add_sprite</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

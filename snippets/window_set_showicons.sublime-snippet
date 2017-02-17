@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-window_set_showicons(${1:show})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>window_set_showicons</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

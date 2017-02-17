@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-discard_include_file(${1:fname})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>discard_include_file</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

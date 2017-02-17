@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-sound_3d_set_sound_distance(${1:snd}, ${2:mindist}, ${3:maxdist})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>sound_3d_set_sound_distance</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

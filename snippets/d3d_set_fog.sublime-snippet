@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-d3d_set_fog(${1:enable}, ${2:color}, ${3:start}, ${4:end})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>d3d_set_fog</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-sound_effect_chorus(${1:snd}, ${2:wetdry}, ${3:depth}, ${4:feedback}, ${5:frequency}, ${6:wave}, ${7:delay}, ${8:phase})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>sound_effect_chorus</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

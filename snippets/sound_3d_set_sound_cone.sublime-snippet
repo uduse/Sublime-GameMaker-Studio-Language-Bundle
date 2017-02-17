@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-sound_3d_set_sound_cone(${1:snd}, ${2:x}, ${3:y}, ${4:z}, ${5:anglein}, ${6:angleout}, ${7:voloutside})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>sound_3d_set_sound_cone</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

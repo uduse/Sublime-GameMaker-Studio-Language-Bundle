@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-splash_show_video(${1:fname}, ${2:loop})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>splash_show_video</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

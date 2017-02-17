@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-filename_change_ext(${1:fname}, ${2:newext})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>filename_change_ext</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

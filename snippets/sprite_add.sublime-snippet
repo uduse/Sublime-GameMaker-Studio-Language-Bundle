@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-sprite_add(${1:fname}, ${2:imgnumb}, ${3:precise}, ${4:transparent}, ${5:smooth}, ${6:preload}, ${7:xorig}, ${8:yorig})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>sprite_add</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>

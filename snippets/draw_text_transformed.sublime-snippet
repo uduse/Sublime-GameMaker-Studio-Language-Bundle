@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-draw_text_transformed(${1:x}, ${2:y}, ${3:string}, ${4:xscale}, ${5:yscale}, ${6:angle})
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>draw_text_transformed</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gml</scope>
-</snippet>
