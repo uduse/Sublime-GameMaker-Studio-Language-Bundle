@@ -218,7 +218,7 @@ syntax_tail = r"""- comment: Line-comments
 - comment: Block-comments
   begin: /\*
   captures:
-  '0':
+    '0':
       name: punctuation.definition.comment.mn
   end: \*/
   name: comment.block.gml
