@@ -1,6 +1,6 @@
-with (instance_create(x, y, obj_rock))
+with (instance_create_layer(x, y, "instance_layer", obj_rock))
 {
-	if (alarm[1] > 10)
+	if (alarm[11] > 10)
 	{
 		instance_destroy();
 	}
