@@ -1,8 +1,8 @@
 {
-   "scope": "source.gml",
+    "scope": "source.gml",
 
-   "completions":
-   [
+    "completions":
+    [
 		"begin",
 		"then",
 		"else",
@@ -2551,5 +2551,5 @@
 		"tile_flip",
 		"tile_mirror",
 		"tile_index_mask"
-    ]
-}
+        ]
+    }

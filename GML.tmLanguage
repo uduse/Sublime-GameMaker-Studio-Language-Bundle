@@ -7,7 +7,7 @@
 		<string>gml</string>
 	</array>
 	<key>name</key>
-	<string>GML</string>
+	<string>GameMaker Language (GML)</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -59,15 +59,16 @@
 			<string>comment.line.gml</string>
 		</dict>
 		<dict>
-			<key>0</key>
-			<dict>
-				<key>name</key>
-				<string>punctuation.definition.comment.mn</string>
-			</dict>
 			<key>begin</key>
 			<string>/\*</string>
 			<key>captures</key>
-			<false/>
+			<dict>
+				<key>0</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.comment.mn</string>
+				</dict>
+			</dict>
 			<key>comment</key>
 			<string>Block-comments</string>
 			<key>end</key>
@@ -95,6 +96,6 @@
 	<key>scopeName</key>
 	<string>source.gml</string>
 	<key>uuid</key>
-	<string>44f1359e-0eb0-4662-a52d-bf0c8a454f23</string>
+	<string>7eb40f01-b63d-4115-81c7-069f032bb76a</string>
 </dict>
 </plist>

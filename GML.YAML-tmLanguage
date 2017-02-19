@@ -1,9 +1,9 @@
 # [PackageDev] target_format: plist, ext: tmLanguage
 ---
-name: GML
+name: GameMaker Language (GML)
 scopeName: source.gml
 fileTypes: [gml]
-uuid: 44f1359e-0eb0-4662-a52d-bf0c8a454f23
+uuid: 7eb40f01-b63d-4115-81c7-069f032bb76a
 
 patterns:
 - comment: Keywords
