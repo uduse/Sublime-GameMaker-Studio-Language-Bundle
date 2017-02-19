@@ -1,8 +1,8 @@
 {
-   "scope": "source.gmll",
+    "scope": "source.gmll",
 
-   "completions":
-   [
+    "completions":
+    [
 		"begin",
 		"then",
 		"else",
@@ -2746,5 +2746,5 @@
 		"vertex_type_colour",
 		"vertex_type_color",
 		"vertex_type_ubyte4"
-    ]
-}
+        ]
+    }
