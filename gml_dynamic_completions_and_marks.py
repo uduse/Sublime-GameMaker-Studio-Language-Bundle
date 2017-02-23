@@ -31,13 +31,14 @@ def collect_all_names(root):
 
 class GameMakerLanguageCompletions(sublime_plugin.EventListener):
     def on_query_completions(self, view, prefix, locations):
-        if not view.match_selector(locations[0], "source.gml"):
-            return []
-        else:
+        if view.match_selector(locations[0], "source.gml"):
             return [[c, c] for c in dynamic_completions(completion_dirs)]
+        else:
+            return []
 
     def on_modified(self, view):
-        view.run_command("mark_dynamic_names")
+        if view.match_selector(locations[0], "source.gml"):
+            view.run_command("mark_dynamic_names")
 
 class MarkDynamicNames(sublime_plugin.TextCommand):
     def run(self, edit):
