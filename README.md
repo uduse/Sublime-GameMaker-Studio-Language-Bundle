@@ -1,12 +1,11 @@
-# GameMaker Studio Language Bundle for Sublime
+# GameMaker Language (GML) Bundle for Sublime
 
-![Preview](./demo.gif)
+<!-- ![Preview](./demo.gif) -->
 
 ## Features
  - Syntax Highlighting
  - Keywords/Built-In Variables Autocompletion
- - Function Snippets
- - Basic Control Snippets
+ - Function/Control Snippets
  - Auto Indentation
 
 ## Installation
@@ -18,8 +17,15 @@ Using [Sublime Package Control](http://wbond.net/sublime_packages/package_contro
 Restart your Sublime and you're ready to rock!
 
 ## Usage
+### GameMaker: Studio 2
 - [Checkout my tutorial on setting up your GameMaker Studio: 2 for Sublime](http://code.uduse.com/2017/02/10/set-up-your-sublime-text-3-to-write-gamemaker-studio-2-codes/)!
-- Name your script with extension ```gml```. For example, ```nvm.gml```. Syntax highlighting will be applied automatically. 
-- Partially type keywords or built-in variables to trigger autocompletion.
-- Partially type function name to trigger function snippet. If multiple parameters are avaliable, TAB (↹) to go to next one. Available snippets are: ```for```, ```if```, ```else```, ```repeat```, ```switch```, ```while```, ```with```, and most of the built-in functions.
-- To indent your gml file, use: Command Palette (⌘⇧P)  ➤  Indentation: Reindent Lines.
+- Name your source file with extension ```gml```. For example, ```example.gml```. Syntax highlighting will be applied automatically. 
+- Partially keywords, built-in variables, and names of user created resources to trigger autocompletion.
+- Partially type function names to trigger function snippets. If multiple parameters are avaliable, TAB (↹) to go to next one. Most of the built-in functions are avaliable as snippets. 
+- Other custom snippets are: ```for```, ```if```, ```else```, ```repeat```, ```switch```, ```while```, ```with```, and ```print``` that writes ```show_debug_message```.
+- To indent your gml file, use: ```Command Palette (⌘⇧P)  ➤  Indentation: Reindent Lines.```
+
+### GameMaker: Studio 1.4 or earlier:
+- You need to copy & paste manually between Sublime and GameMaker: Studio.
+- Name your source file with extension ```gmll```, the extra 'l' stands for legacy. For example, ```example.gmll```.
+- Everything else is pretty much the same as GameMaker: Studio 2.
