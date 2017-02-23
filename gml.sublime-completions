@@ -19,6 +19,7 @@
 		"default",
 		"globalvar",
 		"enum",
+		"#macro",
 		{"trigger": "is_real", "contents": "is_real(${1:val})"},
 		{"trigger": "is_string", "contents": "is_string(${1:val})"},
 		{"trigger": "is_array", "contents": "is_array(${1:val})"},

@@ -7,7 +7,7 @@ uuid: 44f1359e-0eb0-4662-a52d-bf0c8a454f23
 
 patterns:
 - comment: Keywords
-  match: (?<![A-Za-z0-9_])(begin|end|if|then|else|while|do|for|break|continue|with|until|repeat|exit|and|or|xor|not|return|mod|div|switch|case|default|var|globalvar|enum)(?![A-Za-z0-9_])
+  match: (?<![A-Za-z0-9_])(begin|end|if|then|else|while|do|for|break|continue|with|until|repeat|exit|and|or|xor|not|return|mod|div|switch|case|default|var|globalvar|enum|#macro)(?![A-Za-z0-9_])
   name: keyword.gmll
 
 - comment: Functions

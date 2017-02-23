@@ -7,7 +7,7 @@ uuid: 7eb40f01-b63d-4115-81c7-069f032bb76a
 
 patterns:
 - comment: Keywords
-  match: (?<![A-Za-z0-9_])(begin|end|if|then|else|while|do|for|break|continue|with|until|repeat|exit|and|or|xor|not|return|mod|div|switch|case|default|var|globalvar|enum)(?![A-Za-z0-9_])
+  match: (?<![A-Za-z0-9_])(begin|end|if|then|else|while|do|for|break|continue|with|until|repeat|exit|and|or|xor|not|return|mod|div|switch|case|default|var|globalvar|enum|#macro)(?![A-Za-z0-9_])
   name: keyword.gml
 
 - comment: Functions
