@@ -145,7 +145,7 @@ def read_keywords():
     keywords = []
     with open(docs_folder_path + file_keywords, "r", encoding='utf-8-sig') as f:
         for line in f:
-            if line.strip() and "#" not in line:
+            if line.strip():
                 keywords.append(line.strip())
     return keywords
 
