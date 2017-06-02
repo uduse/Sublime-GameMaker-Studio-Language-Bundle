@@ -2,7 +2,11 @@ import sublime
 import sublime_plugin
 import os
 import re
-import json
+import uuid
+import sys
+from . import json
+from collections import OrderedDict
+
 
 yy_file_regex_pattern = "^.*\.yy$"
 
@@ -38,12 +42,3 @@ class GameMakerLanguageCompletions(sublime_plugin.EventListener):
     # def on_modified(self, view):
     #     if re.search(".*\.gml", view.file_name()):
     #         view.run_command("mark_dynamic_names")
-
-# class MarkDynamicNames(sublime_plugin.TextCommand):
-#     def run(self, edit):
-#         names = [name for _, name in generate_completions(["views", "scripts"])]
-#         print(names)
-#         pattern = "(?<![A-Za-z0-9_])" + "|".join(names) + "(?![A-Za-z0-9_])"
-#         matches = self.view.find_all(pattern)
-#         self.view.add_regions("gml_names", matches, scope="source.gml",
-#                               flags=sublime.DRAW_NO_OUTLINE | sublime.DRAW_NO_FILL | sublime.DRAW_STIPPLED_UNDERLINE)

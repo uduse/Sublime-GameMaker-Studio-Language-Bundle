@@ -8,6 +8,7 @@
  - User-created Resources Autocompletion
  - Function/Control Snippets
  - Auto Indentation
+ - Create new script through Sublime (Beta)
 
 ## Installation
 
@@ -25,6 +26,7 @@ Restart your Sublime and you're ready to rock!
 - Partially type function names to trigger function snippets. If multiple parameters are avaliable, TAB (↹) to go to next one. Most of the built-in functions are avaliable as snippets. 
 - Other custom snippets are: ```for```, ```if```, ```else```, ```repeat```, ```switch```, ```while```, ```with```, and ```print``` that writes ```show_debug_message```.
 - To indent your gml file, use: ```Command Palette (⌘⇧P)  ➤  Indentation: Reindent Lines.```
+- To create a new script, use: ```Command Palette (⌘⇧P)  ➤  GameMaker: New Script```
 
 ### GameMaker: Studio 1.4 or earlier:
 - You need to copy & paste manually between Sublime and GameMaker: Studio.
