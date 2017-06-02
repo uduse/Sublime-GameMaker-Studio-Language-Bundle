@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+audio_create_sync_group(${1:looping})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>audio_create_sync_group</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

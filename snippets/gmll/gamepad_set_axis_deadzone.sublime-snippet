@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+gamepad_set_axis_deadzone(${1:device}, ${2:deadzone})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>gamepad_set_axis_deadzone</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+gamepad_set_button_threshold(${1:device}, ${2:threshold})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>gamepad_set_button_threshold</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

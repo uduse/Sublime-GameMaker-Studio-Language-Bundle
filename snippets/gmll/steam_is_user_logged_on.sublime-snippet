@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+steam_is_user_logged_on(${1:})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>steam_is_user_logged_on</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

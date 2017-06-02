@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+draw_circle_colour(${1:x}, ${2:y}, ${3:r}, ${4:col1}, ${5:col2}, ${6:outline)£})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>draw_circle_colour</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

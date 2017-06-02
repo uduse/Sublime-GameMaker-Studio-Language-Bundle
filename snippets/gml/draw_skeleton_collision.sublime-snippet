@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+draw_skeleton_collision(${1:sprite}, ${2:animname}, ${3:frame}, ${4:x}, ${5:y}, ${6:xscale}, ${7:yscale}, ${8:rot}, ${9:col)!})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>draw_skeleton_collision</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

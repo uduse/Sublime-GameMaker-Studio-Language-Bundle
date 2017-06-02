@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+ds_set_precision(${1:prec})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ds_set_precision</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

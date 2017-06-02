@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+sha1_file(${1:fname})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>sha1_file</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

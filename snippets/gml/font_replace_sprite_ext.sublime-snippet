@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+font_replace_sprite_ext(${1:font}, ${2:spr}, ${3:string_map}, ${4:prop}, ${5:sep)!})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>font_replace_sprite_ext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

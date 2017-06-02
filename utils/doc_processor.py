@@ -28,6 +28,25 @@ Entry = namedtuple("Entry", ["name", "type", "param", "readonly",
 # $ = US spelling
 # £ = UK spelling
 # ! = disallowed in free
+snippet_head = r"""<snippet>
+    <content><![CDATA[
+"""
+
+snippet_mid = r"""
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>"""
+
+snippet_tail = r"""</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>"""
+
+def make_snippet(ext, name, param=[]):
+    snippet_body = name + '(' + ", ".join("${%d:%s}" % (i + 1, e) for i, e in enumerate(param)) + ')'
+    snippet_all = snippet_head + snippet_body + snippet_mid + name + snippet_tail.replace("gml", ext)
+    with open("../snippets/" + ext + "/" + name + ".sublime-snippet", "w", encoding='utf-8-sig') as out:
+        out.write(snippet_all)
 
 def process_documentation(function_path, ext):
     # Read Functions
@@ -83,15 +102,12 @@ patterns:
     syntax_output += syntax_comment + "Functions" + '\n'
     syntax_output += syntax_match + regex_head + "|".join(func_names) + regex_tail + "\n"
     syntax_output += syntax_name + "support.function." + ext + "\n\n"
+
+    # Make functions
     func_completions = []
     for entry in entries:
         if entry.type == 'func':
-            params = ", ".join("${%d:%s}" % (i + 1, e) for i, e in enumerate(entry.param))
-            completion = "{\"trigger\": \"%s\", \"contents\": \"%s(%s)\"}" % (entry.name, entry.name, params)
-            func_completions.append(completion)
-
-    # Make functions
-    completion_output += ",\n\t\t".join(func_completions) + ",\n\t\t"
+            make_snippet(ext, entry.name, entry.param)
 
     # Make global vars
     var_names = [entry.name for entry in entries if entry.type == 'glob var']

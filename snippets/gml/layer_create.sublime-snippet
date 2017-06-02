@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+layer_create(${1:depth}, ${2:name*}, ${3:...})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>layer_create</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

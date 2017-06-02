@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_get_density(${1:fixture})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_get_density</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

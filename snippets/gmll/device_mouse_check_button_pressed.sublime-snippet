@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+device_mouse_check_button_pressed(${1:device}, ${2:button})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>device_mouse_check_button_pressed</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

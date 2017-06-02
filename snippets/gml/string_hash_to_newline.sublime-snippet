@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+string_hash_to_newline(${1:str})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>string_hash_to_newline</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

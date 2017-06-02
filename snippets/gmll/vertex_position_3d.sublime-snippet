@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+vertex_position_3d(${1:vbuff}, ${2:x}, ${3:y}, ${4:z})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>vertex_position_3d</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

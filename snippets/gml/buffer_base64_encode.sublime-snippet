@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+buffer_base64_encode(${1:buffer}, ${2:offset}, ${3:size})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>buffer_base64_encode</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

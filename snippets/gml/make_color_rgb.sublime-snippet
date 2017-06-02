@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+make_color_rgb(${1:red}, ${2:green}, ${3:blue)$})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>make_color_rgb</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

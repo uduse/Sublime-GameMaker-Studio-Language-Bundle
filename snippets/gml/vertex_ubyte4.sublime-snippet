@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+vertex_ubyte4(${1:vbuff}, ${2:b1}, ${3:b2}, ${4:b3}, ${5:b4})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>vertex_ubyte4</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

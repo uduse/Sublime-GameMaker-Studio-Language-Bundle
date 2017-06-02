@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+clickable_change_ext(${1:buttonid}, ${2:spritetpe}, ${3:x}, ${4:y}, ${5:scale}, ${6:alpha})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>clickable_change_ext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

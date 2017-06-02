@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+steam_ugc_create_query_user_ex(${1:list_type}, ${2:match_type}, ${3:sort_order}, ${4:page}, ${5:account_id}, ${6:creator_app_id}, ${7:consumer_app_id})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>steam_ugc_create_query_user_ex</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

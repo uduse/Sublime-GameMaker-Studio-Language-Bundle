@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+highscore_show_ext(${1:numb}, ${2:back}, ${3:border}, ${4:col1}, ${5:col2}, ${6:name}, ${7:size)&})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>highscore_show_ext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+playhaven_position_notification_badge(${1:x}, ${2:y}, ${3:width}, ${4:height)&})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>playhaven_position_notification_badge</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

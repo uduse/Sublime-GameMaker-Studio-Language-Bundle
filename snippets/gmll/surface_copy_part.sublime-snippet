@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+surface_copy_part(${1:destination}, ${2:x}, ${3:y}, ${4:source}, ${5:xs}, ${6:ys}, ${7:ws}, ${8:hs})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>surface_copy_part</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

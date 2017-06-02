@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+network_set_config(${1:parameter}, ${2:value})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>network_set_config</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

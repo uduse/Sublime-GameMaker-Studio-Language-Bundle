@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+layer_sprite_alpha(${1:sprite_element_id}, ${2:alpha})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>layer_sprite_alpha</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

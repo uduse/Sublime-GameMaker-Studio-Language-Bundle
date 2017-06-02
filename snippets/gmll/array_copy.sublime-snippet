@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+array_copy(${1:dest}, ${2:dest_index}, ${3:src}, ${4:src_index}, ${5:length})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>array_copy</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

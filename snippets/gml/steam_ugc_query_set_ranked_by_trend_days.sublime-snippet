@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+steam_ugc_query_set_ranked_by_trend_days(${1:ugc_query_handle}, ${2:days})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>steam_ugc_query_set_ranked_by_trend_days</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

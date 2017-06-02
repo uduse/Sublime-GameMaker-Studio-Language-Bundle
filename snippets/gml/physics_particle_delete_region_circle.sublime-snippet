@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_particle_delete_region_circle(${1:x}, ${2:y}, ${3:radius})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_particle_delete_region_circle</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

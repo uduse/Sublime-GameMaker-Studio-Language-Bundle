@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+steam_ugc_get_subscribed_items(${1:item_list})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>steam_ugc_get_subscribed_items</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

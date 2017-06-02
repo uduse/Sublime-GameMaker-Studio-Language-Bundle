@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+layer_force_draw_depth(${1:force}, ${2:depth})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>layer_force_draw_depth</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

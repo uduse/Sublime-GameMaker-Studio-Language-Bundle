@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+room_set_background(${1:ind}, ${2:bind}, ${3:vis}, ${4:fore}, ${5:back}, ${6:x}, ${7:y}, ${8:htiled}, ${9:vtiled}, ${10:hspeed}, ${11:vspeed}, ${12:alpha})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>room_set_background</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

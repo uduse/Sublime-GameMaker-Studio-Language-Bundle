@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+win8_secondarytile_pin(${1:id}, ${2:shortName}, ${3:displayName}, ${4:cmdLineArgs}, ${5:dsListOptions}, ${6:tileImg}, ${7:wideTileImg}, ${8:textCol})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>win8_secondarytile_pin</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

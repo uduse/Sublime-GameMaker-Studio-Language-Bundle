@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+mp_grid_to_ds_grid(${1:src}, ${2:dest})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>mp_grid_to_ds_grid</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

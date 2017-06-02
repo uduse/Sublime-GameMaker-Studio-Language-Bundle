@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+part_type_orientation(${1:ind}, ${2:ang_min}, ${3:ang_max}, ${4:ang_incr}, ${5:ang_wiggle}, ${6:ang_relative})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>part_type_orientation</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+audio_emitter_free(${1:emitterid})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>audio_emitter_free</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

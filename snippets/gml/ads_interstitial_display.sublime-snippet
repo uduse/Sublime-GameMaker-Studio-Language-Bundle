@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+ads_interstitial_display(${1:&})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ads_interstitial_display</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

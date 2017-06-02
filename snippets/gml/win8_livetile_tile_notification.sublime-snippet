@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+win8_livetile_tile_notification(${1:template}, ${2:ds_map}, ${3:expiry}, ${4:tag})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>win8_livetile_tile_notification</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+math_get_epsilon(${1:})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>math_get_epsilon</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

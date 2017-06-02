@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+layer_tile_exists(${1:layer_id}, ${2:tile_element_id}, ${3:...})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>layer_tile_exists</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

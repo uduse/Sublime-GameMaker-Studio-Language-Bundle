@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+d3d_model_wall(${1:ind}, ${2:x1}, ${3:y1}, ${4:z1}, ${5:x2}, ${6:y2}, ${7:z2}, ${8:hrepeat}, ${9:vrepeat})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>d3d_model_wall</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

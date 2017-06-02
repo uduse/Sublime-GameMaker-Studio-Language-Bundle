@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+mouse_wheel_up(${1:})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>mouse_wheel_up</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

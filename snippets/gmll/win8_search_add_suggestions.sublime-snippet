@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+win8_search_add_suggestions(${1:_dslist})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>win8_search_add_suggestions</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

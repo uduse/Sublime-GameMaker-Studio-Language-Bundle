@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+collision_line(${1:x1}, ${2:y1}, ${3:x2}, ${4:y2}, ${5:obj}, ${6:prec}, ${7:notme})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>collision_line</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

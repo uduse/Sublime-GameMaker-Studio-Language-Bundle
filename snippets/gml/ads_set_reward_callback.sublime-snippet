@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+ads_set_reward_callback(${1:callback)&})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ads_set_reward_callback</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+gpu_set_colourwriteenable(${1:red}, ${2:green}, ${3:blue}, ${4:alpha)£})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>gpu_set_colourwriteenable</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

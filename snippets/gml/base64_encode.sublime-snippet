@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+base64_encode(${1:string})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>base64_encode</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

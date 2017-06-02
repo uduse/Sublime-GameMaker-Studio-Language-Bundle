@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+part_type_colour1(${1:ind}, ${2:colour1)£})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>part_type_colour1</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

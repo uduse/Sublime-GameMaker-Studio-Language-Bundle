@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+draw_triangle_colour(${1:x1}, ${2:y1}, ${3:x2}, ${4:y2}, ${5:x3}, ${6:y3}, ${7:col1}, ${8:col2}, ${9:col3}, ${10:outline)£})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>draw_triangle_colour</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

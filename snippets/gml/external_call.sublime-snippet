@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+external_call(${1:id}, ${2:arg1}, ${3:arg2}, ${4:...)!})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>external_call</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

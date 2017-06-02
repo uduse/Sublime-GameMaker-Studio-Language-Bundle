@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+steam_ugc_query_set_search_text(${1:ugc_query_handle}, ${2:search_text})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>steam_ugc_query_set_search_text</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

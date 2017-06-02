@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+tile_set_index(${1:tiledata}, ${2:tileindex})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>tile_set_index</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

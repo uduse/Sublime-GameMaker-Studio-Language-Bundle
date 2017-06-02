@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+vertex_float4(${1:vbuff}, ${2:f1}, ${3:f2}, ${4:f3}, ${5:f4})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>vertex_float4</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

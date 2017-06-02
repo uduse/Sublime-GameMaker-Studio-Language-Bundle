@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_particle_group_begin(${1:typeflags}, ${2:groupflags}, ${3:x}, ${4:y}, ${5:ang}, ${6:xv}, ${7:yv}, ${8:angVelocity}, ${9:col}, ${10:alpha}, ${11:strength}, ${12:category})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_particle_group_begin</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

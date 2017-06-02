@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+audio_listener_set_velocity(${1:index}, ${2:vx}, ${3:vy}, ${4:vz})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>audio_listener_set_velocity</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

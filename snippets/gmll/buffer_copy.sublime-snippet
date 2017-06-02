@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+buffer_copy(${1:src_buffer}, ${2:src_offset}, ${3:size}, ${4:dest_buffer}, ${5:dest_offset})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>buffer_copy</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

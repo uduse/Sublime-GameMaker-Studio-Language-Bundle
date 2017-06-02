@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+room_set_view_enabled(${1:ind}, ${2:val})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>room_set_view_enabled</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

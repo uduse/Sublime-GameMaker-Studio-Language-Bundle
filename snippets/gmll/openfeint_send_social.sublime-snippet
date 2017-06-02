@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+openfeint_send_social(${1:text_string}, ${2:suggested_message}, ${3:image_name)&})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>openfeint_send_social</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

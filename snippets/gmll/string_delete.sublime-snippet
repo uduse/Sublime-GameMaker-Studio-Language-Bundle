@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+string_delete(${1:str}, ${2:index}, ${3:count})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>string_delete</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

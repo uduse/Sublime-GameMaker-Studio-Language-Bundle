@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+draw_text_colour(${1:x}, ${2:y}, ${3:string}, ${4:c1}, ${5:c2}, ${6:c3}, ${7:c4}, ${8:alpha)£})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>draw_text_colour</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

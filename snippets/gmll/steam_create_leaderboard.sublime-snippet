@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+steam_create_leaderboard(${1:lb_name}, ${2:sort_method}, ${3:display_type})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>steam_create_leaderboard</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+gamepad_set_colour(${1:index}, ${2:colour)£})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>gamepad_set_colour</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

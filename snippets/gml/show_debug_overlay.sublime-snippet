@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+show_debug_overlay(${1:enable})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>show_debug_overlay</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

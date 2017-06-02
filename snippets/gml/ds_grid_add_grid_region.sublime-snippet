@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+ds_grid_add_grid_region(${1:id}, ${2:source}, ${3:x1}, ${4:y1}, ${5:x2}, ${6:y2}, ${7:xpos}, ${8:ypos})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ds_grid_add_grid_region</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

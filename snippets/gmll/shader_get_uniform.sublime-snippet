@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+shader_get_uniform(${1:shader}, ${2:uniform_name})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>shader_get_uniform</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

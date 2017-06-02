@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_joint_distance_create(${1:inst1}, ${2:inst2}, ${3:anchor_1_x}, ${4:anchor_1_y}, ${5:anchor_2_x}, ${6:anchor_2_y}, ${7:collideInstances})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_joint_distance_create</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

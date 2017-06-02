@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+sound_effect_equalizer(${1:snd}, ${2:center}, ${3:bandwidth}, ${4:gain)&})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>sound_effect_equalizer</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

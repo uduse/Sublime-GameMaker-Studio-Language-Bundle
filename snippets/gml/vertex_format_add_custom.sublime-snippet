@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+vertex_format_add_custom(${1:type}, ${2:usage})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>vertex_format_add_custom</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

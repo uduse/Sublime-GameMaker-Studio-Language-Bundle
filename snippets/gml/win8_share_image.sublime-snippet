@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+win8_share_image(${1:image_filename}, ${2:title}, ${3:description}, ${4:immediate})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>win8_share_image</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

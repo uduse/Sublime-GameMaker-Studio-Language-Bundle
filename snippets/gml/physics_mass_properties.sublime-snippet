@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_mass_properties(${1:mass}, ${2:local_centre_of_mass_x}, ${3:local_centre_of_mass_y}, ${4:inertia})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_mass_properties</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

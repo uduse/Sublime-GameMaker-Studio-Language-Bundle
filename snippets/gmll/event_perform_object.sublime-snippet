@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+event_perform_object(${1:obj}, ${2:type}, ${3:numb})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>event_perform_object</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

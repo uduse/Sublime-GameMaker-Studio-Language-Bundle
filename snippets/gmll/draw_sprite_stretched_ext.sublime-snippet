@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+draw_sprite_stretched_ext(${1:sprite}, ${2:subimg}, ${3:x}, ${4:y}, ${5:w}, ${6:h}, ${7:colour}, ${8:alpha})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>draw_sprite_stretched_ext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+get_integer_async(${1:str}, ${2:def})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>get_integer_async</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

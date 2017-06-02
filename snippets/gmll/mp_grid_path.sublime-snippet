@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+mp_grid_path(${1:id}, ${2:path}, ${3:xstart}, ${4:ystart}, ${5:xgoal}, ${6:ygoal}, ${7:allowdiag})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>mp_grid_path</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

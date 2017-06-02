@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+tilemap_set_at_pixel(${1:tilemap_element_id}, ${2:tiledata}, ${3:x}, ${4:y})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>tilemap_set_at_pixel</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

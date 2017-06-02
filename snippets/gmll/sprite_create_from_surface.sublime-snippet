@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+sprite_create_from_surface(${1:id}, ${2:x}, ${3:y}, ${4:w}, ${5:h}, ${6:removeback}, ${7:smooth}, ${8:xorig}, ${9:yorig})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>sprite_create_from_surface</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

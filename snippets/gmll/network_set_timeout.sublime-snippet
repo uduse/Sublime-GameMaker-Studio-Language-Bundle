@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+network_set_timeout(${1:socket}, ${2:read}, ${3:write})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>network_set_timeout</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

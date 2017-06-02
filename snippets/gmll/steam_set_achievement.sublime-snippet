@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+steam_set_achievement(${1:ach_name})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>steam_set_achievement</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

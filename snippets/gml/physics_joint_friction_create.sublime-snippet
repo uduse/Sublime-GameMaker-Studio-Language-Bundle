@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_joint_friction_create(${1:inst1}, ${2:inst2}, ${3:anchor_x}, ${4:anchor_y}, ${5:max_force}, ${6:max_torque}, ${7:collideInstances})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_joint_friction_create</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+draw_skeleton_instance(${1:instance}, ${2:animname}, ${3:skinname}, ${4:frame}, ${5:x}, ${6:y}, ${7:xscale}, ${8:yscale}, ${9:rot}, ${10:col}, ${11:alpha)!})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>draw_skeleton_instance</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

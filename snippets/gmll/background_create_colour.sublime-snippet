@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+background_create_colour(${1:w}, ${2:h}, ${3:col})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>background_create_colour</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

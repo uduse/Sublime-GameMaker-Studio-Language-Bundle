@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+room_set_camera(${1:ind}, ${2:vind}, ${3:camera})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>room_set_camera</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

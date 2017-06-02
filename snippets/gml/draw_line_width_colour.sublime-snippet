@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+draw_line_width_colour(${1:x1}, ${2:y1}, ${3:x2}, ${4:y2}, ${5:w}, ${6:col1}, ${7:col2)£})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>draw_line_width_colour</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

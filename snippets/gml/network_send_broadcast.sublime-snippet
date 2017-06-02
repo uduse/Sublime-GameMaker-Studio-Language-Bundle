@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+network_send_broadcast(${1:socket}, ${2:port}, ${3:bufferid}, ${4:size})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>network_send_broadcast</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

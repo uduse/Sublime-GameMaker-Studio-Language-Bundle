@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+gpu_set_texfilter_ext(${1:sampler_id}, ${2:linear})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>gpu_set_texfilter_ext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

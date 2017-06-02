@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+steam_ugc_unsubscribe_item(${1:published_file_id})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>steam_ugc_unsubscribe_item</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

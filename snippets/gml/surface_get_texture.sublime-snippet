@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+surface_get_texture(${1:id})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>surface_get_texture</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

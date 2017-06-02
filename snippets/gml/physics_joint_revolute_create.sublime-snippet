@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_joint_revolute_create(${1:inst1}, ${2:inst2}, ${3:anchor_x}, ${4:anchor_y}, ${5:lower_angle_limit}, ${6:upper_angle_limit}, ${7:enable_limit}, ${8:max_motor_torque}, ${9:motor_speed}, ${10:enable_motor}, ${11:collideInstances})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_joint_revolute_create</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

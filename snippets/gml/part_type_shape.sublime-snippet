@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+part_type_shape(${1:ind}, ${2:shape})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>part_type_shape</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

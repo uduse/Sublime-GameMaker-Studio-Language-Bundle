@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+audio_destroy_stream(${1:stream_sound_id})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>audio_destroy_stream</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

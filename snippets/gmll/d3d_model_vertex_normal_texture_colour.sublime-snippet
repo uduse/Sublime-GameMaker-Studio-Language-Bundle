@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+d3d_model_vertex_normal_texture_colour(${1:ind}, ${2:x}, ${3:y}, ${4:z}, ${5:nx}, ${6:ny}, ${7:nz}, ${8:xtex}, ${9:ytex}, ${10:col}, ${11:alpha})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>d3d_model_vertex_normal_texture_colour</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

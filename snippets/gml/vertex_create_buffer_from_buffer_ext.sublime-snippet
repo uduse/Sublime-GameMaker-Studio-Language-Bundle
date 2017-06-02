@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+vertex_create_buffer_from_buffer_ext(${1:src_buffer}, ${2:format}, ${3:src_offset}, ${4:num_vertices})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>vertex_create_buffer_from_buffer_ext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

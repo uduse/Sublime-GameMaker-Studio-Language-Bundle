@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+rectangle_in_rectangle(${1:sx1}, ${2:sy1}, ${3:sx2}, ${4:sy2}, ${5:dx1}, ${6:dy1}, ${7:dx2}, ${8:dy2})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rectangle_in_rectangle</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

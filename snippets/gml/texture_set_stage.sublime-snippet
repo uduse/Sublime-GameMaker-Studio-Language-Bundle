@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+texture_set_stage(${1:sampled_id}, ${2:texture_id})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>texture_set_stage</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

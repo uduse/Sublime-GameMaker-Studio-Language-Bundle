@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+audio_get_master_gain(${1:listenerIndex})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>audio_get_master_gain</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

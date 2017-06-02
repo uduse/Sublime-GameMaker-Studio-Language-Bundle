@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_joint_gear_create(${1:inst1}, ${2:inst2}, ${3:revoluteJoint}, ${4:prismaticJoint}, ${5:ratio})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_joint_gear_create</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

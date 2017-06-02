@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+sprite_save_strip(${1:ind}, ${2:fname})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>sprite_save_strip</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

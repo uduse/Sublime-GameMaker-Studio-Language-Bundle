@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+shader_set_uniform_f(${1:uniform_id}, ${2:val}, ${3:....})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>shader_set_uniform_f</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

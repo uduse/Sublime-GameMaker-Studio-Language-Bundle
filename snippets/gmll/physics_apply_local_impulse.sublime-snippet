@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_apply_local_impulse(${1:xlocal}, ${2:ylocal}, ${3:ximpulse_local}, ${4:yimpulse_local})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_apply_local_impulse</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

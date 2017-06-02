@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+vertex_texcoord(${1:vbuff}, ${2:u}, ${3:v})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>vertex_texcoord</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

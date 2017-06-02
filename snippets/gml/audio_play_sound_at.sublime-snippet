@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+audio_play_sound_at(${1:soundid}, ${2:x}, ${3:y}, ${4:z}, ${5:falloff_ref_dist}, ${6:falloff_max_dist}, ${7:falloff_factor}, ${8:loops}, ${9:priority})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>audio_play_sound_at</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

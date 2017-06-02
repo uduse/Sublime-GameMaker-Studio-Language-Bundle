@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+matrix_transform_vertex(${1:matrix}, ${2:x}, ${3:y}, ${4:z})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>matrix_transform_vertex</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

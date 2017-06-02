@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+facebook_post_message(${1:title}, ${2:caption}, ${3:message}, ${4:picture_url}, ${5:redirect_url}, ${6:actionname}, ${7:action_url})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>facebook_post_message</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

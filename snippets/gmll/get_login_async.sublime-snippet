@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+get_login_async(${1:username}, ${2:password})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>get_login_async</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

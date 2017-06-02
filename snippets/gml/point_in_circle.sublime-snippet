@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+point_in_circle(${1:px}, ${2:py}, ${3:cx}, ${4:cy}, ${5:rad})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>point_in_circle</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+analytics_event_ext(${1:string}, ${2:string_param_name1}, ${3:number_value1}, ${4:...})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>analytics_event_ext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

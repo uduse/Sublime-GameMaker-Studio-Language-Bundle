@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+matrix_build(${1:x}, ${2:y}, ${3:z}, ${4:xrotation}, ${5:yrotation}, ${6:zrotation}, ${7:xscale}, ${8:yscale}, ${9:zscale})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>matrix_build</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

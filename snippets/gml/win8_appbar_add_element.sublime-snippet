@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+win8_appbar_add_element(${1:type}, ${2:icon}, ${3:label}, ${4:section}, ${5:toolTip}, ${6:callback})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>win8_appbar_add_element</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+draw_enable_alphablend(${1:enable})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>draw_enable_alphablend</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_particle_draw_ext(${1:typemask}, ${2:category}, ${3:sprite}, ${4:subimg}, ${5:xscale}, ${6:yscale}, ${7:angle}, ${8:col}, ${9:alpha})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_particle_draw_ext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

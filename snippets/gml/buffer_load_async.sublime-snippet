@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+buffer_load_async(${1:bufferid}, ${2:filename}, ${3:offset}, ${4:size})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>buffer_load_async</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

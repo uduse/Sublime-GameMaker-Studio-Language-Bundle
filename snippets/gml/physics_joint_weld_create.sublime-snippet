@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_joint_weld_create(${1:inst1}, ${2:inst2}, ${3:anchor_x}, ${4:anchor_y}, ${5:ref_angle}, ${6:freq_hz}, ${7:damping_ratio}, ${8:collideInstances})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_joint_weld_create</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

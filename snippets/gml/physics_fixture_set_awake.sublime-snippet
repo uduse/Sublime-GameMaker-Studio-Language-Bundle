@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_fixture_set_awake(${1:fixture}, ${2:flag})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_fixture_set_awake</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

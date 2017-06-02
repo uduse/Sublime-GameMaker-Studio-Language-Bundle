@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+get_save_filename_ext(${1:filter}, ${2:fname}, ${3:dir}, ${4:title})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>get_save_filename_ext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_fixture_bind_ext(${1:fixture}, ${2:obj}, ${3:xo}, ${4:yo})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_fixture_bind_ext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

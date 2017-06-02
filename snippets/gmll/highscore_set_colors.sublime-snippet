@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+highscore_set_colors(${1:back}, ${2:new}, ${3:other);&})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>highscore_set_colors</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

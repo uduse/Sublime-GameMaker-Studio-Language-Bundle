@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+audio_group_is_loaded(${1:groupId})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>audio_group_is_loaded</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

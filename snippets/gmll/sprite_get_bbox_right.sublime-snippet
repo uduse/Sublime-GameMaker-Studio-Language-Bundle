@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+sprite_get_bbox_right(${1:ind})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>sprite_get_bbox_right</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+external_define(${1:dll}, ${2:name}, ${3:calltype}, ${4:restype}, ${5:argnumb}, ${6:arg1type}, ${7:arg2type}, ${8:...})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>external_define</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

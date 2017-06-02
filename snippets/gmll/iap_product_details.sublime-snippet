@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+iap_product_details(${1:product_id}, ${2:ds_map})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>iap_product_details</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

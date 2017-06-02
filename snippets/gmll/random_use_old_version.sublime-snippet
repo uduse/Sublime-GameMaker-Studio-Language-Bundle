@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+random_use_old_version(${1:trueFalse})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>random_use_old_version</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

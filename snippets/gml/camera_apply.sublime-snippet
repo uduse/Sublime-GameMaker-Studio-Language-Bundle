@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+camera_apply(${1:camera})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>camera_apply</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

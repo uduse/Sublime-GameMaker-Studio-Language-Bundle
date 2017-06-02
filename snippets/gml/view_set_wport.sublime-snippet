@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+view_set_wport(${1:view}, ${2:wport})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>view_set_wport</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+background_create_from_screen(${1:x}, ${2:y}, ${3:w}, ${4:h}, ${5:removeback}, ${6:smooth)&})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>background_create_from_screen</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

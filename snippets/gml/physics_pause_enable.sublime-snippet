@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_pause_enable(${1:pause})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_pause_enable</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

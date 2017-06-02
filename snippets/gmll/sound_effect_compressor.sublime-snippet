@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+sound_effect_compressor(${1:snd}, ${2:gain}, ${3:attack}, ${4:release}, ${5:threshold}, ${6:ratio}, ${7:delay)&})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>sound_effect_compressor</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

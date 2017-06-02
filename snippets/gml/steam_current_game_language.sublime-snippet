@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+steam_current_game_language(${1:})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>steam_current_game_language</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

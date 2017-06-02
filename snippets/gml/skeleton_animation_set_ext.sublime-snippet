@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+skeleton_animation_set_ext(${1:anim_name}, ${2:track)!})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>skeleton_animation_set_ext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

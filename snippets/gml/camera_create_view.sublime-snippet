@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+camera_create_view(${1:room_x}, ${2:room_y}, ${3:width}, ${4:height}, ${5:angle}, ${6:object}, ${7:x_speed}, ${8:y_speed}, ${9:x_border}, ${10:y_border})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>camera_create_view</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

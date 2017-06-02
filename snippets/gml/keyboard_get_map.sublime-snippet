@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+keyboard_get_map(${1:key})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>keyboard_get_map</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

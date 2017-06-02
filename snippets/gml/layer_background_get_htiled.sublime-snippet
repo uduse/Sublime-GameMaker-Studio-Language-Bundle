@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+layer_background_get_htiled(${1:background_element_id})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>layer_background_get_htiled</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

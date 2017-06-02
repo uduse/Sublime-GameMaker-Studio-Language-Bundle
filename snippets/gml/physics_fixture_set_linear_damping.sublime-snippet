@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+physics_fixture_set_linear_damping(${1:fixture}, ${2:damping})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>physics_fixture_set_linear_damping</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

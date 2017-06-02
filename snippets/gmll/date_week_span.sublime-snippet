@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+date_week_span(${1:date1}, ${2:date2})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>date_week_span</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

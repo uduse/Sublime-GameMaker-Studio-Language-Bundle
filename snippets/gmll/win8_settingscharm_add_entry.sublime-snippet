@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+win8_settingscharm_add_entry(${1:name}, ${2:callback})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>win8_settingscharm_add_entry</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

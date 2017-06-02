@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+skeleton_attachment_get(${1:slot)!})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>skeleton_attachment_get</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

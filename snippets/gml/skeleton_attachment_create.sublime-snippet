@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+skeleton_attachment_create(${1:name}, ${2:sprite}, ${3:ind}, ${4:xo}, ${5:yo}, ${6:xs}, ${7:ys}, ${8:rot)!})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>skeleton_attachment_create</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

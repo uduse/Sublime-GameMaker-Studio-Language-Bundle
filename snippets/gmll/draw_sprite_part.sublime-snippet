@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+draw_sprite_part(${1:sprite}, ${2:subimg}, ${3:left}, ${4:top}, ${5:width}, ${6:height}, ${7:x}, ${8:y})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>draw_sprite_part</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

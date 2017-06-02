@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+url_open(${1:url})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>url_open</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

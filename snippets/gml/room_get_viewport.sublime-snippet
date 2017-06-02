@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+room_get_viewport(${1:ind}, ${2:vind})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>room_get_viewport</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

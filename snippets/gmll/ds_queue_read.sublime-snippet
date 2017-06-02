@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+ds_queue_read(${1:id}, ${2:str}, ${3:...})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ds_queue_read</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+audio_listener_orientation(${1:lookat_x}, ${2:lookat_y}, ${3:lookat_z}, ${4:up_x}, ${5:up_y}, ${6:up_z})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>audio_listener_orientation</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+draw_surface_general(${1:id}, ${2:left}, ${3:top}, ${4:width}, ${5:height}, ${6:x}, ${7:y}, ${8:xscale}, ${9:yscale}, ${10:rot}, ${11:c1}, ${12:c2}, ${13:c3}, ${14:c4}, ${15:alpha})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>draw_surface_general</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

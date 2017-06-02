@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+show_menu_pos(${1:x}, ${2:y}, ${3:str}, ${4:def)&})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>show_menu_pos</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gmll</scope>
+</snippet>

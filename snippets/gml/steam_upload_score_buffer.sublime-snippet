@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+steam_upload_score_buffer(${1:lb_name}, ${2:score}, ${3:buffer_id})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>steam_upload_score_buffer</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>

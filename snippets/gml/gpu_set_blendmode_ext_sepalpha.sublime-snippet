@@ -1,0 +1,9 @@
+﻿<snippet>
+    <content><![CDATA[
+gpu_set_blendmode_ext_sepalpha(${1:src}, ${2:dest}, ${3:srcalpha}, ${4:destalpha})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>gpu_set_blendmode_ext_sepalpha</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.gml</scope>
+</snippet>
