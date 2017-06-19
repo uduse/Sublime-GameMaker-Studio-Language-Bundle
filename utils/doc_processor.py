@@ -201,7 +201,7 @@ def read_functions(path):
     return entries
 
 
-# # Dump the files
+# Dump the files
 syntax, completion = process_documentation(docs_folder_path + functions_file_name, 'gml')
 syntax_legacy, completion_legacy = process_documentation(docs_folder_path + functions_file_name_legacy, 'gmll')
 
